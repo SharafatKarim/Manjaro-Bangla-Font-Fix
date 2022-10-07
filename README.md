@@ -3,7 +3,7 @@ Simple script to fix Bangla font issue (especially `telegram`) in Manjaro and Ar
 
 Simply run the following one line command to install the script!
 ```
-curl https://raw.githubusercontent.com/SharafatKarim/Manjaro-Bangla-Font-Fix/main/main.sh | bash
+curl -s https://raw.githubusercontent.com/SharafatKarim/Manjaro-Bangla-Font-Fix/main/main.sh | bash
 ```
 
 # Licencing:
