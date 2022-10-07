@@ -89,4 +89,4 @@ create-empty-config-file
     cd "/etc/fonts/conf.d/"
 write-into-config
     cd ~
-    echo -e "${Green}Done! Please log out and log in back to see the change.${NC}"
+echo -e "${Green}Done! Please log out and log in back to see the change.${NC}"
