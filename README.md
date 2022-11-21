@@ -5,6 +5,10 @@ Simply run the following one line command to install the script!
 ```
 curl -s https://raw.githubusercontent.com/SharafatKarim/Manjaro-Bangla-Font-Fix/main/main.sh | bash
 ```
+if this script doesn't work, you can always revert back to previous self by,
+```
+sudo rm -rf "/etc/fonts/conf.d/76-bangla.conf"
+```
 
 # Licencing:
 [Copyright 2021 (Ahmad Hasan Mubashshir)](mailto:ahmubashshir@gmail.com)
