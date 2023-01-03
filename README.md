@@ -10,6 +10,14 @@ if this script doesn't work, you can always revert back to previous self by,
 sudo rm -rf "/etc/fonts/conf.d/76-bangla.conf"
 ```
 
+# Another way
+If you're running kde-plasma, you can list all your system fonts that uses a specific language! And you get the idea, just delete those (backup recommended). Hope, it works! 
+
+> If you discover any other solution, please share with us!![image](https://user-images.githubusercontent.com/93897936/210300712-dffb9461-d34a-43e4-83b3-ff6ad044067d.png)
+
+# Acknowledgements
+- Mefad 🇧🇩|| 115Mefad 🇧🇩|| 115
+
 # Licencing:
 [Copyright 2021 (Ahmad Hasan Mubashshir)](mailto:ahmubashshir@gmail.com)
 
