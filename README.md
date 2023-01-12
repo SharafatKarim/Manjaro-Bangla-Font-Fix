@@ -1,4 +1,15 @@
 # Manjaro-Bangla-Font-Fix
+
+## Whole system
+If you're running kde plasma then, go to setting, Appearance, Font Management and search for "Mukti Narrow". You can either disable it or delete it. 
+
+![image](https://user-images.githubusercontent.com/93897936/212074422-8f684659-4578-4e01-80d2-bcf80590ef88.png)
+
+You can also do it manually from `/usr/share/fonts/TTF/`. 
+But then you may need to reinstall it from any other source. 
+Or, [from here](https://www.wfonts.com/font/mukti-narrow).
+
+## Telegram or discord specific
 Simple script to fix Bangla font issue (especially `telegram`) in Manjaro and Arch Linux based operating systems.
 
 Simply run the following one line command to install the script!
@@ -9,9 +20,6 @@ if this script doesn't work, you can always revert back to previous self by,
 ```
 sudo rm -rf "/etc/fonts/conf.d/76-bangla.conf"
 ```
-
-# Another way
-If you're running kde-plasma, you can list all your system fonts that uses a specific language! And you get the idea, just delete those (backup recommended). Hope, it works! 
 
 > If you discover any other solution, please share with us!
 
