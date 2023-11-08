@@ -24,6 +24,7 @@ sudo rm -rf "/etc/fonts/conf.d/76-bangla.conf"
 > If you discover any other solution, please share with us!
 
 # Acknowledgements 
+- [Mubashshir](https://github.com/ahmubashshir/)
 - Mefad 🇧🇩|| 115Mefad 🇧🇩|| 115
 
 # Licencing:
